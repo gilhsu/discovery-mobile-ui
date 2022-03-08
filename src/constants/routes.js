@@ -1,6 +1,0 @@
-export default {
-  COLLECTIONS: {
-    BUILDS: 'COLLECTIONS/BUILDS',
-    UPDATES: 'COLLECTIONS/UPDATES',
-  },
-};
